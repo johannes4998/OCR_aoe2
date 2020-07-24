@@ -12,7 +12,7 @@ I use ffmpeg to film the ressource panel and timer.  The video needs some enhanc
 Last I take picutres for every second of the video (not every in game second).
 
 ### 2 Using R to read the screenshots
-I use the libraries magick for image processing and tesseract to read the data. See the code.
+I use the libraries magick for image processing and tesseract to read the data. See the code. I increase the accuracy by decreasing the canvas to each datafield.
 
 ## Result
 Now I have a pretty nice table with a lot of information about the game.
