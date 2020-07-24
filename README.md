@@ -17,3 +17,13 @@ With microbenchmark I tested the speed of the process and could increase it by e
 
 ## Result
 Now I have a pretty nice table with a lot of information about the game.
+
+
+## Sample data
+Here you can download sample data to follow the steps. You will need to adjust the file paths.
+- source video
+- increased video
+- screenshots
+- aoe2_data.rds (output data from R)
+
+https://1drv.ms/u/s!An4UplYIB1Pcg58EbRUK4suQzk0Rkw?e=H95R9b
