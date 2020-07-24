@@ -17,7 +17,7 @@ With microbenchmark I tested the speed of the process and could increase it by e
 
 ## Result
 Now I have a pretty nice table with a lot of information about the game.
-
+See example_stats to look at some graphs.
 
 ## Sample data
 Here you can download sample data to follow the steps. You will need to adjust the file paths.
