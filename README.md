@@ -13,6 +13,7 @@ Last I take picutres for every second of the video (not every in game second).
 
 ### 2 Using R to read the screenshots
 I use the libraries magick for image processing and tesseract to read the data. See the code. I increase the accuracy by decreasing the canvas to each datafield.
+With microbenchmark I tested the speed of the process and could increase it by editing most images with ffmpeg instead of R. Now 624 pictures take around 60sec to read.
 
 ## Result
 Now I have a pretty nice table with a lot of information about the game.
