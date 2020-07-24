@@ -22,7 +22,7 @@ See example_stats to look at some graphs.
 ## Sample data
 Here you can download sample data to follow the steps. You will need to adjust the file paths.
 - source video
-- increased video
+- enhanced video
 - screenshots
 - aoe2_data.rds (output data from R)
 
